@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Ringo1225's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ringo1225&show=prs_merged_percentage&show_icons=true&hide_rank=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Ringo1225's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ringo1225&show_icons=true&hide_rank=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ringo1225&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
