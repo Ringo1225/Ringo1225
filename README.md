@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Ringo1225&show_icons=true&rank_icon=github" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ringo1225&layout=donut" />
-
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Ringo1225&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&line_height=21" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ringo1225&hide_title=true&layout=compact" />
 
 <!--
 **Ringo1225/Ringo1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
