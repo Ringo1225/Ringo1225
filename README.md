@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-[![Ringo1225's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ringo1225&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ringo1225&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=Ringo1225&show_icons=true&theme=transparent&rank_icon=github)" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ringo1225&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ringo1225&layout=donut" />
