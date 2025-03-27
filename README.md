@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ringo1225)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ringo1225&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![Ringo1225's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ringo1225&show=prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
